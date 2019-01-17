@@ -19,7 +19,7 @@ EducationKnowledgeGraph, focused on education and exam knowledge which can enabl
 
 # 项目架构
 ![image](https://github.com/liuhuanyong/TravelKnowledgeGraph/blob/master/image/schema.jpg)
-本项目将从结构化数据和非结构化数据出发,完成全国列车线路数据库,全国城市地铁数据,全球经典数据共3个知识库,基于游记知识库以及出行问答知识库建成出行事理图谱,形成一定规模的出行领域知识图谱,并最终支持路径规划查询,问句解析等服务,该项目也可以作为相关问答评测的数据集.   
+本项目将从结构化数据和非结构化数据出发,完成全国列车线路数据库,全国城市地铁数据,全国景点数据共3个知识库,基于游记知识库以及出行问答知识库建成出行事理图谱,形成一定规模的出行领域知识图谱,并最终支持路径规划查询,问句解析等服务,该项目也可以作为相关问答评测的数据集.   
 
 # 详细工作
 1, 当前已经完成院校考研知识库中部分数据收集工作,见/data/train_data.json.
