@@ -16,7 +16,7 @@ EducationKnowledgeGraph, focused on education and exam knowledge which can enabl
 &ensp;&ensp;&ensp;&ensp;因果图谱(https://github.com/liuhuanyong/CausalityEventExtraction)  等,大家有兴趣的可以继续查看.  
 &ensp;&ensp;&ensp;&ensp;新的一年,我将尝试在其他领域进行知识图谱的应用尝试,出行领域是知识图谱应用领域的一个重要领域之一,火车票,汽车票,飞机票,城市信息等在网络上也较为全面,这些都为出行领域应用场景提供了数据基础.之前做的出行顺承事件一直想找一个应用点,本项目是想将基础知识图谱和事理图谱之间做一个融合性的尝试,我觉得如果能够把这个知识库搭建起来,对于个人能力的锻炼以及应用场景上的拓展和尝试也具有一定意义.于是,本项目被提出,欢迎大家一起加入进来.  
 
-# 项目架构
+
 # 项目架构
 ![image](https://github.com/liuhuanyong/TravelKnowledgeGraph/blob/master/image/schema.jpg)
 本项目将从结构化数据和非结构化数据出发,完成全国列车线路数据库,全国城市地铁数据,全球经典数据共3个知识库,基于游记知识库以及出行问答知识库建成出行事理图谱,形成一定规模的出行领域知识图谱,并最终支持路径规划查询,问句解析等服务,该项目也可以作为相关问答评测的数据集.   
