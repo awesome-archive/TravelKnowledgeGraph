@@ -3,4 +3,13 @@ travel knowledge graph, focused on travel, including china train map graph, tour
 
 
 # 项目架构
-![image](https://github.com/liuhuanyong/TravelKnowledgeGraph/blob/master/image/schema.png)
+![image](https://github.com/liuhuanyong/TravelKnowledgeGraph/blob/master/image/schema.jpg)
+
+
+
+# 接下来的工作
+
+
+
+
+
